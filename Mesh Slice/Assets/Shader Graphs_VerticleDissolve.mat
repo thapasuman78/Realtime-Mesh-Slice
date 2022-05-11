@@ -1,0 +1,45 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!21 &2100000
+Material:
+  serializedVersion: 6
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_Name: Shader Graphs_VerticleDissolve
+  m_Shader: {fileID: -6465566751694194690, guid: e8874468d65aa65439d23c1ced4ac120,
+    type: 3}
+  m_ShaderKeywords: 
+  m_LightmapFlags: 4
+  m_EnableInstancingVariants: 0
+  m_DoubleSidedGI: 0
+  m_CustomRenderQueue: -1
+  stringTagMap: {}
+  disabledShaderPasses: []
+  m_SavedProperties:
+    serializedVersion: 3
+    m_TexEnvs:
+    - Texture2D_12A70E72:
+        m_Texture: {fileID: 10300, guid: 0000000000000000f000000000000000, type: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    - Texture2D_FC39119A:
+        m_Texture: {fileID: 0}
+        m_Scale: {x: 1, y: 1}
+        m_Offset: {x: 0, y: 0}
+    m_Floats:
+    - BOOLEAN_5A79FB9C: 0
+    - Vector1_1D84F9A2: 0.2
+    - Vector1_31CDA308: 0
+    - Vector1_588C7CCF: 0.428
+    - Vector1_6A1B8813: 0.435
+    - Vector1_8500AF78: 4.13
+    - Vector1_8DAC8216: 4
+    - Vector1_994C6DF6: 0.3
+    - Vector1_A5E1F8A4: 0.1
+    - Vector1_C9C6EDD8: 0
+    - Vector1_F0B3E7CE: 0.1
+    - _DisAmount: -0.14
+    m_Colors:
+    - Color_ED0EAD33: {r: 1, g: 0, b: 0.58320045, a: 1}
